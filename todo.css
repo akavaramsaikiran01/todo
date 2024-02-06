@@ -1,0 +1,31 @@
+#list
+{
+    width: 25rem;
+    background-color: rgb(211, 210, 201);
+    
+}
+body
+{
+    background-color: rgb(226, 241, 156);
+}
+
+.label_container
+{
+    
+    height: 1.5rem;
+    font-size: 1.5rem;
+    width: 20rem;
+}
+.todo
+{
+    display: flex;
+    /* border: 5px solid yellow; */
+}
+.delete_icon_container
+{
+    width: 2rem;
+}
+.cursor
+{
+    cursor: pointer;
+}
